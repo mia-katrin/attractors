@@ -31,3 +31,5 @@ to analyze the robustness and stability of their systems.
 All experiments were conducted in the jupyter notebooks included. Any additional code can be found in src. 
 
 The models are uploaded in the "model" folder. These are the models used for our experiments. 
+
+The folder "paper" includes the tex files for the intial submission.
