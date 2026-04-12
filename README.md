@@ -32,4 +32,4 @@ All experiments were conducted in the jupyter notebooks included. Any additional
 
 The models are uploaded in the "model" folder. These are the models used for our experiments. 
 
-The folder "paper" includes the tex files for the intial submission.
+The folder "paper" includes the tex files for the submission.
